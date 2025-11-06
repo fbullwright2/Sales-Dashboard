@@ -1,2 +1,3 @@
 <h1> Power Bi Financial Sales Dashboard </h1>
+The Power BI Financial Sales Dashboard is a self-built, interactive reporting tool designed to visualize key financial metrics and sales performance across various dimensions. It consolidates data from multiple sources to provide real-time insights into revenue trends, profit margins, customer segmentation, and regional sales distribution. With dynamic filters, drill-through capabilities, and customizable visuals, the dashboard empowers stakeholders to monitor KPIs, identify growth opportunities, and make data-driven decisions efficiently.
 <h2> Summary </h2>
